@@ -37,6 +37,7 @@ GEM
     octokit (9.2.0)
       faraday (>= 1, < 3)
       sawyer (~> 0.9)
+    parslet (2.0.0)
     public_suffix (6.0.1)
     racc (1.8.1)
     rexml (3.4.1)
@@ -64,6 +65,7 @@ DEPENDENCIES
   faraday-retry
   nokogiri
   octokit
+  parslet
   rss
 
 CHECKSUMS
@@ -86,6 +88,7 @@ CHECKSUMS
   nokogiri (1.18.8-x86_64-linux-gnu) sha256=4a747875db873d18a2985ee2c320a6070c4a414ad629da625fbc58d1a20e5ecc
   nokogiri (1.18.8-x86_64-linux-musl) sha256=ddd735fba49475a395b9ea793bb6474e3a3125b89960339604d08a5397de1165
   octokit (9.2.0) sha256=4fa47ff35ce654127edf2c836ab9269bcc8829f5542dc1e86871f697ce7f4316
+  parslet (2.0.0) sha256=d45130695d39b43d7e6a91f4d2ec66b388a8d822bae38de9b4de9a5fbde1f606
   public_suffix (6.0.1) sha256=61d44e1cab5cbbbe5b31068481cf16976dd0dc1b6b07bd95617ef8c5e3e00c6f
   racc (1.8.1) sha256=4a7f6929691dbec8b5209a0b373bc2614882b55fc5d2e447a21aaa691303d62f
   rexml (3.4.1) sha256=c74527a9a0a04b4ec31dbe0dc4ed6004b960af943d8db42e539edde3a871abca
